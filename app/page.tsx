@@ -328,7 +328,7 @@ export default function Home() {
             CSV列変換専門ツール
           </p>
           <h1 className="mb-3 text-5xl font-black leading-none tracking-normal text-slate-900 sm:text-7xl">
-            ColumnFlow
+            CSV列整理くん
           </h1>
           <p className="max-w-2xl text-base leading-8 text-slate-600">
             CSVの列名変更と列順変更を、1画面でそのまま完了できます。
